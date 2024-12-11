@@ -7,6 +7,7 @@ import Footer from "./components/Footer/Footer";
 
 const App = () => {
   return (
+    <>
       <div className="app">
         <Navbar />
         <main>
@@ -18,7 +19,9 @@ const App = () => {
         </main>
         <Footer />
       </div>
+    </>
   );
 };
+
 
 export default App;
