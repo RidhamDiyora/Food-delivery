@@ -1,8 +1,21 @@
-# React + Vite
+🍔 Food Delivery App (MERN Stack)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack food delivery web application built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**. This project allows users to browse menus, manage their carts, place orders, and track deliveries in real-time. Admins can manage orders, update menu items, and monitor system activity through a dedicated admin panel.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* User authentication (Sign-Up, Login, Logout)
+* Menu display with dynamic category filtering
+* Cart management and real-time order tracking
+* Admin panel for order and menu management
+* Secure RESTful API integration
+* Responsive UI built with **React.js**
+* Backend data storage and management using **MongoDB**
+
+## 🛠️ Technologies Used
+
+* **Frontend:** React.js, HTML, CSS, JavaScript
+* **Backend:** Node.js, Express.js
+Database: MongoDB
+Authentication: JWT
+Version Control: Git, GitHub
